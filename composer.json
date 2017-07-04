@@ -1,0 +1,15 @@
+{
+    "name": "rxlwin/view",
+    "authors": [
+        {
+            "name": "rxlwin",
+            "email": "40367288@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"rxlwin\\view\\":""
+    	}
+    }
+}
